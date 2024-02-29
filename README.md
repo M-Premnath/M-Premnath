@@ -4,7 +4,7 @@
 
 ### Bio:
 
-Premnath M is a software engineer with a passion for Python, Data Science,  and Frontend developer.
+Dynamic Python developer with BCA and MBA degrees, adept in Python programming and business administration. Skilled in delivering innovative solutions, ensuring efficiency and productivity. Organized and responsible, committed to achieving high-quality results. Eager to contribute to team success.
             
 
 ### Streetcred:
