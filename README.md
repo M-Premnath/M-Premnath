@@ -4,7 +4,7 @@
 
 ### Bio:
 
-Dynamic Python developer with BCA and MBA degrees, adept in Python programming and business administration. Skilled in delivering innovative solutions, ensuring efficiency and productivity. Organized and responsible, committed to achieving high-quality results. Eager to contribute to team success.
+Dynamic Software Developer with a Bachelor's degree in Computer Applications (BCA) and a Master's degree in Business Administration (MBA). Adept in Python programming and business administration, I excel in delivering innovative solutions that enhance efficiency and productivity. As an organized and responsible professional, I am committed to achieving high-quality results and contributing to team success. Passionate about leveraging my technical and strategic skills to drive sustainable business growth.
             
 
 ### Streetcred:
