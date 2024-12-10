@@ -13,7 +13,7 @@ Dynamic Software Developer with a Bachelor's degree in Computer Applications (BC
 
 ### My Stack:
 
-### <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Data%20Science"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Python"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Frontend"/>
+### <img src="[https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Data%20Science](https://getbootstrap.com/)"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Python"/> <img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Frontend"/>
 
 ### 
 
