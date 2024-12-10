@@ -37,7 +37,7 @@ Dynamic Software Developer with a Bachelor's degree in Computer Applications (BC
 
 ### 🔗 Links  
 - [GitHub](https://github.com/M-Premnath)  
-- LinkedIn (https://www.linkedin.com/in/premnath-m)
+- [LinkedIn](https://www.linkedin.com/in/premnath-m)
 
 ---
 
